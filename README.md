@@ -31,3 +31,10 @@ in the module.
 
 This tool is used to reduce the size of wasm binaries by stripping out various
 sections and components.
+
+# wasmtime
+
+https://wasmtime.dev/
+
+A command line tool that lets you invoke arbitrary function sin wasm files, the
+"cloudy" way, without the js/browser crutch.
