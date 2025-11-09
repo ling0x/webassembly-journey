@@ -36,5 +36,5 @@ sections and components.
 
 https://wasmtime.dev/
 
-A command line tool that lets you invoke arbitrary function sin wasm files, the
+A command line tool that lets you invoke arbitrary functions in wasm files, the
 "cloudy" way, without the js/browser crutch.
