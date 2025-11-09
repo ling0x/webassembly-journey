@@ -38,3 +38,11 @@ https://wasmtime.dev/
 
 A command line tool that lets you invoke arbitrary functions in wasm files, the
 "cloudy" way, without the js/browser crutch.
+
+`wasmtime --invoke add example.wasm 1 2`
+
+# wasmer-go
+
+A complete and mature WebAssembly runtime for Go based on Wasmer
+
+https://github.com/wasmerio/wasmer-go
